@@ -11,7 +11,7 @@ export class NavBar extends Component {
         		<ul className="navbar-nav">
 
         			<form className="form-inline my-2 my-lg-0">
-        				<input className="form-control mr-sm-2" type="text" placeholder="Buscar"/>
+        				<input className="form-control mr-sm-2" type="text" placeholder="Buscar..."/>
         				<button className="btn btn-default my-2 my-sm-0 mr-sm-4" type="submit">Buscar</button>
         			</form>
 
