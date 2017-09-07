@@ -4,7 +4,6 @@ import React, { Component } from 'react';
 export class NavBar extends Component {
   render() {
     return (
-      <div className="container">
         <nav className="navbar navbar-toggleable-md navbar-light bg-faded">
         	<a className="navbar-brand" href="#">ClasiAgro</a>
         	<div className="collapse navbar-collapse">
@@ -29,7 +28,6 @@ export class NavBar extends Component {
         		</ul>
         	</div>
         </nav>
-      </div>
     );
   }
 }
